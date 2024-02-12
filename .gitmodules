@@ -1,0 +1,9 @@
+[submodule "Mobile-WaiterApp"]
+	path = Mobile-WaiterApp
+	url = https://github.com/HenriqueT-dev/Mobile-WaiterApp
+[submodule "BackEnd-WaiterApp"]
+	path = BackEnd-WaiterApp
+	url = https://github.com/HenriqueT-dev/BackEnd-WaiterApp
+[submodule "FrontEnd-WaiterApp"]
+	path = FrontEnd-WaiterApp
+	url = https://github.com/HenriqueT-dev/FrontEnd-WaiterApp
